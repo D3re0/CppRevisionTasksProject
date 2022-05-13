@@ -7,5 +7,6 @@ int main(void) {
 	testingTask04();
 	testingTask05();
 	testingTask06();
+
 	return 0;
 }

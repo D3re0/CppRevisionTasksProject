@@ -1,22 +1,23 @@
-﻿/*	Задание 04. Сумма цифр трёхзначного числа
+﻿/*	Задание 04. Число-палиндром (симметричное число)
 *
-*	Дано целое трехзначное число. Найдите сумму его цифр.
+*	Дано четырехзначное число. Определите, является ли оно палиндромом.
+*	Если да, то выведите 1, иначе выведите 0.
 *
 *	Формат входных данных [input]
-*	На вход дается число от 100 до 999.
+*	Вводится число в диапазоне от 0 до 9999.
 *
 *	Формат выходных данных [output]
 *	Выведите одно целое число - ответ на задачу.
 *
-*	[Sample function input 1]: 345
-*	[Sample function output 1]: 12
+*	[Sample function input 1]: 2002
+*	[Sample function output 1]: 1
 *
-*	[Sample function input 2]: 999
-*	[Sample function output 2]: 27
+*	[Sample function input 2]: 2008
+*	[Sample function output 2]: 0
 */
 
 #include "Tasks.h"
 
-int task04(int number) {
-	return 0;
+int task04(int number) {    
+    return 0;
 }
